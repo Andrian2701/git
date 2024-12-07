@@ -1,1 +1,0 @@
-const getSalary = () => 100;
