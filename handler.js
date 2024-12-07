@@ -1,0 +1,1 @@
+const getSalary = () => 100;
