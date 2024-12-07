@@ -1,6 +1,6 @@
 const getVacationInfo = (startDate) => `Your vacations starts ${startDate}`;
 
-const getMonthSalary = () => "Your month income";
-const getYearSalary = () => "Your year income";
+const getMonthSalary = ({ monthIncome }) => `Your month income:${monthIncome}`;
+const getYearSalary = ({ yearIncome }) => `Your year income:${yearIncome}`;
 
 const greetUser = (name) => `Hello, ${name}!`;
