@@ -3,3 +3,5 @@ const User1 = {
 };
 
 const greetUser = (name) => `Hello, ${name}!`;
+
+console.log("Bob");
