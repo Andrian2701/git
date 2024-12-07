@@ -1,5 +1,5 @@
-const countSum = (a, b) => a + b;
-
-console.log(countSum(10, 101));
+const User1 = {
+  name: "Bob",
+};
 
 const greetUser = (name) => `Hello, ${name}!`;
