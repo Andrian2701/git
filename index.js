@@ -10,3 +10,5 @@ const users = [
 ];
 
 const getUserData = (user) => user;
+
+console.log(getUserData(users[0]));
